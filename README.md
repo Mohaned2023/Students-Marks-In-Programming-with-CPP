@@ -1,10 +1,13 @@
-# About this Project :
-This project is about assigning a requset to me at the university ,	
-and it is project for managing student's grades in programming.
+# **About this Project :**
 
-# Written by :
- Mohaned Mohammed Sherhan ~2023
+This project is about assigning a requset to me at the university , and it is project for managing student's grades in programming.
 
-# My accounts on :
-Insagram:https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y	 
-twitter:https://twitter.com/MrX48915521?t=rHyMHB151bMLMsc94DkKvg&s=09	
+# **Written by** :
+> ___Mohaned Sherhan ~ 2023___
+
+# **My accounts on :**
+>[Twitter](https://twitter.com/MrX2023M?t=rHyMHB151bMLMsc94DkKvg&s=09)
+
+>[instagram](https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y)
+
+>[Github](https://github.com/Mohaned2023)
